@@ -7,3 +7,6 @@ and C='C'
 and D='D'
 and E='E'
 and F='F'
+
+and G='G'
+and H='H'
