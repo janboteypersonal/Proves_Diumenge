@@ -3,3 +3,4 @@ FROM payments
 WHERE payment_date='2020-10-31'
 and A='A'
 and B='B'
+and C='C'
